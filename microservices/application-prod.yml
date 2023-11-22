@@ -5,5 +5,5 @@ management:
         include:
           - '*'
 microservices:
-  greeting: "Ciao"
+  greeting: "Pronto"
   default-value: "Mondo"
