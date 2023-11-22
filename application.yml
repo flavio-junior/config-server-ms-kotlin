@@ -1,0 +1,9 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+          - '*'
+microservices:
+  greeting: "Hello"
+  default-value: "World"
